@@ -1,0 +1,14 @@
+npm i FBX2glTF 
+
+run cmd at C:\Users\dines\node_modules\fbx2gltf\bin\Windows_NT
+
+with command 
+
+"  FBX2glTF -i Enzo.fbx  "
+
+
+run cmd at C:\Users\dines\node_modules\fbx2gltf\bin\Windows_NT\Enzo_out
+
+with command 
+
+" npx gltf-pipeline -i Enzo.gltf -d --draco.compressionLevel 10 -o compressed.gltf  "
