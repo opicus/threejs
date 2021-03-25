@@ -10,10 +10,6 @@
 
 			let camera, scene, renderer, stats;
 
-			const clock = new THREE.Clock();
-
-			let mixer;
-
 			init();
 			animate();
 
